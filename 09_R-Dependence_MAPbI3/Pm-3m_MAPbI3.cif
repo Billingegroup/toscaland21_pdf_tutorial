@@ -1,0 +1,83 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_pd_phase_name                         'New structure'
+_cell_length_a                         6.31728
+_cell_length_b                         6.31728
+_cell_length_c                         6.31728
+_cell_angle_alpha                      90
+_cell_angle_beta                       90
+_cell_angle_gamma                      90
+_symmetry_space_group_name_H-M         'P m -3 m'
+_symmetry_Int_Tables_number            221
+
+loop_
+_symmetry_equiv_pos_as_xyz
+   'x, y, z'
+   '-x, -y, -z'
+   '-x, -y, z'
+   'x, y, -z'
+   '-x, y, -z'
+   'x, -y, z'
+   'x, -y, -z'
+   '-x, y, z'
+   'z, x, y'
+   '-z, -x, -y'
+   'z, -x, -y'
+   '-z, x, y'
+   '-z, -x, y'
+   'z, x, -y'
+   '-z, x, -y'
+   'z, -x, y'
+   'y, z, x'
+   '-y, -z, -x'
+   '-y, z, -x'
+   'y, -z, x'
+   'y, -z, -x'
+   '-y, z, x'
+   '-y, -z, x'
+   'y, z, -x'
+   'y, x, -z'
+   '-y, -x, z'
+   '-y, -x, -z'
+   'y, x, z'
+   'y, -x, z'
+   '-y, x, -z'
+   '-y, x, z'
+   'y, -x, -z'
+   'x, z, -y'
+   '-x, -z, y'
+   '-x, z, y'
+   'x, -z, -y'
+   '-x, -z, -y'
+   'x, z, y'
+   'x, -z, y'
+   '-x, z, -y'
+   'z, y, -x'
+   '-z, -y, x'
+   'z, -y, x'
+   '-z, y, -x'
+   '-z, y, x'
+   'z, -y, -x'
+   '-z, -y, -x'
+   'z, y, x'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   1          1.0     0.000000      0.000000      0.000000     Uiso  0.042000 Pb
+   2          1.0     0.500000      0.000000      0.000000     Uiso  0.123000 I
+   3          0.3333  0.393308      0.500000      0.500000     Uiso  0.177500 C
+   4          0.1250  0.305848      0.448981      0.379518     Uiso  0.147400 H
